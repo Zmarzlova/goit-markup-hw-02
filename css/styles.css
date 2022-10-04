@@ -35,7 +35,7 @@ ul {
   letter-spacing: 0.03em;
 }
 
-.logo-secondary {
+.logo-header {
   color: #000000;
 }
 
@@ -109,6 +109,7 @@ ul {
 }
 .features-title {
   color: var(--title-text-color);
+  font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -156,6 +157,9 @@ ul {
   color: var(--accent-color);
 }
 
+.logo-secondary {
+  color: var(--additional-color);
+}
 .footer-link.address {
   color: var(--additional-color);
   line-height: 1.71;
